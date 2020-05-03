@@ -22,5 +22,4 @@ BUILD_COMMAND ""
 INSTALL_COMMAND ""
 )
 
-set_property(TARGET Firmware PROPERTY VS_DOTNET_REFERENCES "Hardware/bin/
-Release/Hardware.dll" )
+set_property(TARGET Firmware PROPERTY VS_DOTNET_REFERENCES "Hardware/bin/Release/Hardware.dll" )
